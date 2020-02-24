@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM stands for Document Object Model and means it follows the chain of commands of parents and nodes. It allows you to make HTML updates using Javascript and makes those updates based on what chain of command you tell the DOM to change.
+
 2. What is an event?
+
+It is a command that takes place on web browsers. It can be a click event, mouse over event, scroll event, and so on.
 
 3. What is an event listener?
 
+An event listener allows you to change the CSS based on what event takes place. For example, you can make the header change font once clicked on. The event listener watches for that event to take place and executes the CSS code that you want to happen during that event.
+
 4. Why would we convert a NodeList into an Array?
 
+To access the data and have it appear on a webpage as we please. Like using axios to obtain a node list from an API and turning the data into an array to give that data functionality on a webpage.
+
 5. What is a component?
+
+A compenent is a giant function created so that it can be used easier in the future as repeat code if needed. It's a way to transfer a bunch of data from Javascript into an HTML element on the HTML file.
 
 ### Git Set up
 
